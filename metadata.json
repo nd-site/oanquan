@@ -1,0 +1,6 @@
+{
+  "name": "O An Quan",
+  "description": "Play the traditional Vietnamese board game Ô Ăn Quan offline against smart AI players with 2 to 5 player board variants (long rectangle up to hexagon).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
